@@ -2,6 +2,9 @@
 
 Welcome to the Fast React Pizza repository! Your go-to destination for delicious pizza delivered fast! 🚀
 
+  ![Travel List Screenshot](./public/fast-react-pizza.png )
+
+
 ## Description 📝
 
 Fast React Pizza is a web application built with React, React Router, Redux, Redux Toolkit, thunks, and Tailwind CSS. It provides a seamless user experience for ordering pizza online, with features like real-time data loading, state management, and a sleek user interface.
